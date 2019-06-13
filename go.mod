@@ -3,7 +3,7 @@ module github.com/terraform-providers/terraform-provider-kubernetes
 require (
 	contrib.go.opencensus.io/exporter/ocagent v0.5.0 // indirect
 	github.com/Azure/go-autorest v11.9.0+incompatible // indirect
-	github.com/dustinkirkland/golang-petname v0.0.0-20170921220637-d3c2ba80e75e // indirect
+	github.com/dustinkirkland/golang-petname v0.0.0-20190613204921-11339a705ed2 // indirect
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
