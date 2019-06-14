@@ -6,7 +6,7 @@ require (
 	github.com/dustinkirkland/golang-petname v0.0.0-20170921220637-d3c2ba80e75e // indirect
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/googleapis/gnostic v0.2.0 // indirect
+	github.com/googleapis/gnostic v0.3.0 // indirect
 	github.com/gophercloud/gophercloud v0.0.0-20190523203818-4885c347dcf4 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc // indirect
 	github.com/hashicorp/go-hclog v0.7.0 // indirect
